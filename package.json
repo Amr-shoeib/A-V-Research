@@ -1,0 +1,25 @@
+{
+  "name": "a-v-research",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amr-shoeib/A-V-Research.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amr-shoeib/A-V-Research/issues"
+  },
+  "homepage": "https://github.com/Amr-shoeib/A-V-Research#readme",
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^4.2.1",
+    "nodemon": "^2.0.21"
+  }
+}
